@@ -1,2 +1,2 @@
-# Mini-GPT
-Making my very own transformer based LLM from scratch using python.
+# GUS-GPT
+Building a custom generative pre-trained transformer (GPT) from scratch in python using only numpy!
